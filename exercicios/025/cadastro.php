@@ -1,0 +1,2 @@
+Apredenda php para colocar date_isodate_set
+jnenvkwenvlanka
